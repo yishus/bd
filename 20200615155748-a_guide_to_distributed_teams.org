@@ -1,0 +1,34 @@
+#+TITLE: A guide to distributed teams
+
+- source :: https://increment.com/teams/a-guide-to-distributed-teams/
+
+* Communication
+- Bigger chance of miscommunication with irony and sacarsm
+- Repeat your message
+** Synchronous communication
+- Good for creative ideation
+- More behaviour data
+  - Good to spot problems
+** Asynchronous communication
+- Allow for deep work
+- Reliable and consistent information distribution
+- Easier to add new member to the team (/why?/)
+* Coordination
+- Difficult for distributed team to react quickly
+- Put emphasis on predictability
+  - For example, knowing when your next iteration starts
+* Collaboration
+ - Strategic durection change needs more value to green light
+ - In distributed teams, collaboration should be taken into account for performance
+* Organisation
+- Keep teams small
+  - 3/4 engineers to 1 product manager
+  - Embed the other functions (eg. mobile, product marketing, data, QA and support) at important kickoff meetings, share summaries and recorded video calls
+    - Help the team undestand when to seek out specialised input
+  - However small teams might have to reinvent the wheel
+  - Smaller pain points experienced across small teams might not be prioritised by any, even though organisation gain of solving them is huge
+    - Working groups
+    - Production Engineering
+      - Site reliability engineers + frontend reliability engineers + quality reliability engineers + security
+  - Embrace overlap in roles
+* Operations

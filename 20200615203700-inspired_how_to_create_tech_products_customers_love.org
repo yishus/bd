@@ -1,0 +1,5 @@
+#+TITLE: Inspired: How to Create Tech Products Customers Love
+
+- author :: Marty Cagan
+
+- "If you’re just using your engineers to code, you’re only getting about half their value."
